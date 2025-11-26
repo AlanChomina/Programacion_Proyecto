@@ -1,0 +1,50 @@
+indicador_id,nombre,periodo,valor
+1002000061,Población total,1990,10389092.0
+1002000061,Población total,1995,10670048.0
+1002000061,Población total,2000,10736493.0
+1002000061,Población total,2005,10952123.0
+1002000061,Población total,2010,10939937.0
+1002000061,Población total,2020,10943540.0
+1002000067,Población total hombres,1990,9664403.0
+1002000067,Población total hombres,1995,10142071.0
+1002000067,Población total hombres,2000,9992135.0
+1002000067,Población total hombres,2005,10109021.0
+1002000067,Población total hombres,2010,11026112.0
+1002000067,Población total hombres,2020,10806690.0
+1002000070,Población total mujeres,1990,7829163.0
+1002000070,Población total mujeres,1995,9397424.0
+1002000070,Población total mujeres,2000,9071134.0
+1002000070,Población total mujeres,2005,8964629.0
+1002000070,Población total mujeres,2010,9892271.0
+1002000070,Población total mujeres,2020,10422095.0
+1002000073,Población de 0 a 14 años,1990,6404512.0
+1002000073,Población de 0 a 14 años,1995,7613090.0
+1002000073,Población de 0 a 14 años,2000,8157743.0
+1002000073,Población de 0 a 14 años,2005,8103358.0
+1002000073,Población de 0 a 14 años,2010,8788177.0
+1002000073,Población de 0 a 14 años,2020,9993001.0
+8999998738,Población de 15 a 29 años,2016,61343.278
+8999998738,Población de 15 a 29 años,2018,61770.338
+8999998738,Población de 15 a 29 años,2020,66886.255
+8999998738,Población de 15 a 29 años,2022,56104.063
+8999998738,Población de 15 a 29 años,2024,46048.229
+8999998741,Población de 30 a 44 años,2016,23144.894
+8999998741,Población de 30 a 44 años,2018,24274.345
+8999998741,Población de 30 a 44 años,2020,22724.685
+8999998741,Población de 30 a 44 años,2022,22947.316
+8999998741,Población de 30 a 44 años,2024,18407.598
+8999998745,Población de 45 a 59 años,2016,22298.977
+8999998745,Población de 45 a 59 años,2018,23525.262
+8999998745,Población de 45 a 59 años,2020,24397.397
+8999998745,Población de 45 a 59 años,2022,25056.783
+8999998745,Población de 45 a 59 años,2024,24249.571
+8999998752,Población de 60 años y más,2016,8745.256
+8999998752,Población de 60 años y más,2018,8696.408
+8999998752,Población de 60 años y más,2020,10792.987
+8999998752,Población de 60 años y más,2022,9103.513
+8999998752,Población de 60 años y más,2024,6951.103
+8999998757,Relación de dependencia (población dependiente vs activa),2016,19.16060963
+8999998757,Relación de dependencia (población dependiente vs activa),2018,19.60341642
+8999998757,Relación de dependencia (población dependiente vs activa),2020,17.92984639
+8999998757,Relación de dependencia (población dependiente vs activa),2022,17.80412196
+8999998757,Relación de dependencia (población dependiente vs activa),2024,14.13619435
