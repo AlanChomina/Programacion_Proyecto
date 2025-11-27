@@ -1,0 +1,3 @@
+Hola este proyecto trata sobre la brecha digital en Mexico, utilizando datos de la inegi y sep 
+
+Este documento es prueba para el trabajo colaborativo en github, para ver si esto funciona
