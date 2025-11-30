@@ -1,0 +1,37 @@
+indicador_id,nombre,periodo,valor
+1002000041,Porcentaje de personas de 15 años y más alfabetas,2000,90.4508066640996
+1002000041,Porcentaje de personas de 15 años y más alfabetas,2010,92.35
+1002000041,Porcentaje de personas de 15 años y más alfabetas,2015,93.623470489186
+1002000041,Porcentaje de personas de 15 años y más alfabetas,2020,95.0368532952485
+1005000038,Grado promedio de escolaridad (15 años y más),2000,7.5
+1005000038,Grado promedio de escolaridad (15 años y más),2005,8.1
+1005000038,Grado promedio de escolaridad (15 años y más),2010,8.63
+1005000038,Grado promedio de escolaridad (15 años y más),2015,9.16184342150625
+1005000038,Grado promedio de escolaridad (15 años y más),2020,9.73805046766345
+3108001001,Porcentaje de analfabetas total,1970,25.81
+3108001001,Porcentaje de analfabetas total,1990,12.42
+3108001001,Porcentaje de analfabetas total,1995,10.6
+3108001001,Porcentaje de analfabetas total,2000,9.46
+3108001001,Porcentaje de analfabetas total,2005,8.35
+3108001001,Porcentaje de analfabetas total,2010,6.88
+3108001001,Porcentaje de analfabetas total,2015,5.47805307647182
+6200240391,Porcentaje de la población de 15 años y más con rezago educativo,2014,36.2
+6200240391,Porcentaje de la población de 15 años y más con rezago educativo,2015,35.5
+6200240391,Porcentaje de la población de 15 años y más con rezago educativo,2016,34.37528837
+6200240391,Porcentaje de la población de 15 años y más con rezago educativo,2017,33.3006074471468
+6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,2015,62.990746
+6207019024,Porcentaje de la población de 3 a 5 años que asiste a la escuela,2020,63.3393023936695
+6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,2015,97.703947
+6207019026,Porcentaje de la población de 6 a 11 años que asiste a la escuela,2020,95.4812398406711
+6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,2015,93.312545
+6207019028,Porcentaje de la población de 12 a 14 años que asiste a la escuela,2020,90.4821497704118
+6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,2015,44.045882
+6207019029,Porcentaje de la población de 15 a 24 años que asiste a la escuela,2020,45.3181093501112
+6207049066,Población de 6 a 14 años que sabe leer y escribir,2000,87.28014362773737
+6207049066,Población de 6 a 14 años que sabe leer y escribir,2010,86.63997503871194
+6207049066,Población de 6 a 14 años que sabe leer y escribir,2015,87.4564719361106
+6207049066,Población de 6 a 14 años que sabe leer y escribir,2020,17554529.0
+6207049067,Población de 6 a 14 años que no sabe leer y escribir,2000,12.342843713469364
+6207049067,Población de 6 a 14 años que no sabe leer y escribir,2010,11.236025172157468
+6207049067,Población de 6 a 14 años que no sabe leer y escribir,2015,8.34935373684738
+6207049067,Población de 6 a 14 años que no sabe leer y escribir,2020,1871713.0
